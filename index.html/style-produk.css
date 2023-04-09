@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    background-color: beige;
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    color: black;
+}
+
+.row-container{
+    background-color: rgb(250, 233, 187);
+    margin: 0px
+}
+   
+
+.card:hover{
+    border: 5px solid white;
+}
+
+.row-produk{
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+    padding-top: 16px;
+}
+
+.garis-produk{
+    border-bottom: 2px solid black;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.review-icon{
+    width: 50px;
+    margin-bottom: 35px;
+}
+
+.review-name{
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.review-des{
+    font-size: 14px;
+}
+
+.deskripsi{
+    height: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+    font-size: 14px;
+}
+
+.review{
+    height: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+
